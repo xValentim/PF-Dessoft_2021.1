@@ -29,38 +29,8 @@ Entregadores:
     [523, 32],
 ]
 Saída: 3
-Observação 1: a distância de um ponto (x_1, y_1)(x 
-1
-​
- ,y 
-1
-​
- ) a outro ponto (x_2, y_2)(x 
-2
-​
- ,y 
-2
-​
- ) é dada por \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2} 
-(x 
-2
-​
- −x 
-1
-​
- ) 
-2
- +(y 
-2
-​
- −y 
-1
-​
- ) 
-2
- 
-​
- .
+Observação 1: a distância de um ponto a outro ponto é:
+((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2)) ** 0.5
 
 Observação 2: o índice inicia em ZERO. Ou seja, o primeiro é o índice 0, o segundo é o índice 1 e assim por diante.
 
